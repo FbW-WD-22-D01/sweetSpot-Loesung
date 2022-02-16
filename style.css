@@ -1,0 +1,36 @@
+/*Reset CSS*/
+
+
+h1 {
+    background-color: #f58ea0;
+    color: #dad8d8;    
+}
+
+h2 {
+    background-color: #dad8d8;
+    color: #f112f1;
+}
+h3 {
+    background-color: #ebf64d;
+}
+h3:hover {
+    color: rgb(27, 163, 187);
+}
+
+#main-topic {
+    background-color: hotpink;
+}
+
+ul {
+    background-color: #1ed7f0;
+    list-style: none;
+}
+ul:hover{
+    background-color: #ebf64d;
+}
+li a:hover{
+    color: red;
+}
+#contact a:visited {
+color: red;
+}

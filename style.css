@@ -28,9 +28,7 @@ ul {
 ul:hover{
     background-color: #ebf64d;
 }
-li a:hover{
-    color: red;
-}
+
 #contact a:visited {
 color: red;
 }
